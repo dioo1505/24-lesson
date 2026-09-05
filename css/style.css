@@ -8,3 +8,26 @@ span{
   font-size: 45px;
   font-family: cursive;
 }
+.card{
+  width: 400px;
+  height: 320px;
+  display: flex;
+  flex-direction: column;
+  border-radius: 30px;
+  background-color: lightblue;
+  gap: 20px;
+  align-items: center;
+  padding: 10px 20px;
+}
+.card-img{
+  width: 300px;
+}
+.card-btn{
+  padding: 8px 25px;
+  background-color: crimson;
+  font-family: cursive;
+  font-size: 14px;
+  border: none;
+  border-radius: 30px;
+  color: white;
+}
